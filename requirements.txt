@@ -1,2 +1,4 @@
-python-decouple
 tweepy
+requests
+python-decouple
+decouple
